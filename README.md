@@ -11,7 +11,7 @@ This script is designed to scrape doctor data based on specialty, city, and stat
  
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/doctor-data-scraper.git
+   git clone https://github.com/kevmaindev/Medifind.com-scraper.git
    cd Medifind.com scraper
    ```
 
